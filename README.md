@@ -8,4 +8,4 @@ Focus on Graph Neural Network, Self-supervised Learning, and Reinforcement Learn
 Follow me. 😄
 ''')
 ```
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyongjiang)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyongjiang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
