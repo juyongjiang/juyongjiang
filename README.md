@@ -4,7 +4,7 @@
 
 print('''
 Hi there 👋. I am Juyong Jiang. A Recommender Systems Researcher from Upstage Co., Ltd.
-Focus on Graph Neural Network and Self-supervised Learning.
+Focus on Graph Neural Network, Self-supervised Learning, and Transformer.
 Follow me. 😄
 ''')
 ```
