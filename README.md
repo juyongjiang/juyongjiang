@@ -3,8 +3,7 @@
 # -- coding: utf-8 --
 
 print('''
-Hi there 👋. I am Juyong Jiang. A Recommender Systems Researcher from Upstage Co., Ltd.
-Focus on Graph Neural Network, Self-supervised Learning, and Transformer.
+Hi there 👋. I am Juyong Jiang. My research interests are Recommender Systems and Natural Language Processing, with a particular focus on Multi-task Learning, Graph Neural Network and Dense Retrieval.
 Follow me. 😄
 ''')
 ```
