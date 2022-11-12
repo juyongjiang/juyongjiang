@@ -3,7 +3,7 @@
 # -- coding: utf-8 --
 
 print('''
-Hi there 👋. I am Juyong Jiang. My research interests are Natural Language Processing.
+Hi there 👋. I am Juyong Jiang. My research interests are Natural Language Processing, with a focus on Code & Text Generation.
 Follow me. 😄
 ''')
 ```
