@@ -8,4 +8,5 @@ My research interest is Natural Language Processing, with a focus on Code Genera
 Follow me. 😄
 ''')
 ```
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyongjiang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyongjiang&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
