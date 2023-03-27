@@ -2,6 +2,10 @@
 #!/usr/bin/python
 # -- coding: utf-8 --
 
+"""
+Looking for Internships
+"""
+
 print('''
 Hi there 👋. 
 I am Juyong Jiang, a PhD student (Sep. 2022 - Now) at HKUST, under the supervision of Prof. Sunghun Kim.
