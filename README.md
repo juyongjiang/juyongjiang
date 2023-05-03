@@ -2,9 +2,6 @@
 #!/usr/bin/python
 # -- coding: utf-8 --
 
-"""
-Looking for Internships
-"""
 
 print('''
 Hi there 👋. 
