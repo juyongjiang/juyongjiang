@@ -6,7 +6,7 @@
 print('''
 Hi there 👋. 
 I am Juyong Jiang, a PhD student (Sep. 2022 - Now) at HKUST, under the supervision of Prof. Sunghun Kim.
-My research interest is NLP, with a focus on large language models and their application of code intelligence.
+My research interest is NLP, with a focus on large language models and their application of code generation.
 Follow me. 😄
 ''')
 ```
