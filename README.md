@@ -2,6 +2,7 @@
 #!/usr/bin/python
 # -- coding: utf-8 --
 
+[Highlight] I am always open to collaborations. Please feel free to contact me if you are interested in working with me. 😄
 
 print('''
 Hi there 👋. 
